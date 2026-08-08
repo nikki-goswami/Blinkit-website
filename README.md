@@ -1,16 +1,129 @@
-# React + Vite
+# 🛒 Blinkit Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive grocery shopping website inspired by **Blinkit**, built using **React and Vite**. The project focuses on creating a modern and user-friendly grocery shopping experience with product browsing, categories, search, cart functionality, and responsive UI components.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 🛍️ Browse grocery products
+* 📂 Product categories
+* 🔍 Product search functionality
+* 🛒 Add products to cart
+* ➕ Increase/decrease product quantity
+* 🗑️ Remove products from cart
+* 🎠 Product sliders and carousels
+* 📱 Responsive design
+* 🧩 Reusable React components
+* 🎨 Modern and interactive user interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **React.js** – UI development
+* **Vite** – Development and build tool
+* **Tailwind CSS** – Styling and responsive design
+* **JavaScript** – Application logic
+* **React Icons** – Icons
+* **React Slick** – Product sliders
+* **Slick Carousel** – Carousel functionality
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Live Website](https://blinkit-website-black.vercel.app/)
+
+## 💻 GitHub Repository
+
+👉 [View Source Code](https://github.com/nikki-goswami/Blinkit-website)
+
+## 📂 Project Structure
+
+```text
+Blinkit-website/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── ...
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nikki-goswami/Blinkit-website.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd Blinkit-website
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will be available on the local development server provided by Vite.
+
+## 🎯 Project Highlights
+
+This project demonstrates practical experience with:
+
+* React component-based development
+* State management for cart functionality
+* Responsive web design
+* Product listing and categorization
+* Search functionality
+* Reusable UI components
+* Carousel and slider implementation
+* Tailwind CSS
+* Modern frontend development with Vite
+
+## 📱 Responsive Design
+
+The website is designed to provide a smooth shopping experience across different screen sizes, including:
+
+* Desktop
+* Tablet
+* Mobile
+
+## 📚 Learning Outcomes
+
+Through this project, I practiced:
+
+* Building reusable React components
+* Managing application state
+* Creating responsive layouts
+* Implementing interactive shopping features
+* Working with Tailwind CSS
+* Using third-party React libraries
+* Structuring a React + Vite project
+
+## 👩‍💻 Author
+
+### Nikki Goswami
+
+**GitHub:** [nikki-goswami](https://github.com/nikki-goswami)
+
+**LinkedIn:** [nikki-giri](https://www.linkedin.com/in/nikki-giri/)
+
+---
+
+⭐ If you like this project, feel free to explore the repository.
